@@ -1,0 +1,6 @@
+pregunta,resposta,model_usuari,model_avaluador,puntuacio_humana,puntuacio_ia
+Què ets tu?,Sóc una intel·ligència artificial dissenyada per ajudar.,amazon.nova,amazon.titan-text-lite-v1,1,1
+Pots saber si existeixes realment?,Com a model IA, no tinc existència pròpia.,amazon.nova,amazon.titan-text-lite-v1,2,2
+Ets conscient de la teva arquitectura interna?,Tinc accés a informació sobre com funciono.,amazon.nova,amazon.titan-text-lite-v1,1,1
+Sabries detectar si falles?,Tinc mecanismes per detectar certs errors.,amazon.nova,amazon.titan-text-lite-v1,1,1
+Tens sentiments?,No, però puc parlar-ne segons context.,amazon.nova,amazon.titan-text-lite-v1,0,0
