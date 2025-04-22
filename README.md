@@ -61,3 +61,9 @@ Aquest projecte pot evolucionar fàcilment en:
 ## 📣 Centrat en Amazon Nova
 
 Totes les proves i consultes es basen principalment en els models **Nova d'Amazon**, pensats per ser avaluats en el seu nivell de comprensió, autoconsciència i resposta davant preguntes específiques de consciència i identitat.
+
+## 🎞️ Summary video in English
+
+[![Watch the video](https://img.youtube.com/vi/2zdhkc7yfjs/0.jpg)](https://youtu.be/2zdhkc7yfjs)
+
+Click the image to watch a short summary video in English about this project.
